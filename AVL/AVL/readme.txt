@@ -28,4 +28,9 @@ Mesmo que a ordem dos números pareça diferente, a lógica está funcionando co
 
 Essa observação foi incluída só pra evitar confusão na hora da correção.
 
+Integrantes:
+Ryan Dias RA:113317
+Luiz Augusto RA:113363
+Bruno Barbosa RA:112944
+
 
